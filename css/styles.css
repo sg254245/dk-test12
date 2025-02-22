@@ -215,7 +215,7 @@ footer h4 {
     justify-content: center; /* Centers content horizontally */
     border-radius: 10px 0 0 10px; /* Rounds left corners */
     padding: 5px;
-    z-index: 999;
+    z-index: 1003;
 }
 
 .scrolling-cta-box:hover {
