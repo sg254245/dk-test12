@@ -124,7 +124,7 @@
 /* =============================
    Mobile Styles (max-width: 400px)
    ============================= */
-@media (max-width: 400px) {
+@media (max-width: 1040px) {
 
     /* Character Reference Cards - Container */
     .character-reference-grid-container {
